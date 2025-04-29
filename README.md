@@ -24,4 +24,11 @@ This project implements a complete computer vision pipeline for autonomous vehic
 ---
 
 ## 🗂️ Project Structure
+/
+├── Final.ipynb              # End-to-end training and inference notebook
+├── carla_demo.py            # Script for CARLA simulation and deployment
+├── kitti_dataset/           # Contains KITTI images, labels, and YOLO-formatted data
+├── runs/
+│   └── detect/              # YOLOv8 training outputs (weights, logs, results)
+└── README.md                # Project overview (this file)
 
