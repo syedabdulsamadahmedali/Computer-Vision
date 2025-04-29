@@ -45,13 +45,9 @@ This project implements a complete computer vision pipeline for autonomous vehic
 - **Top Class Performance**: Car (F1 = 0.9964)
 - **Simulated Video**: 600 ticks @ 20 FPS rendered via CARLA RGB camera
 
-> 📽️ _Demo video available in presentation slides (not uploaded here due to size)._
+## 🎥 Simulation Demo
 
----
+Watch a short CARLA simulation showcasing the trained YOLOv8 model detecting vehicles and pedestrians in real-time.
 
-## 🚀 How to Run
+🎥 [Watch the Simulation Video](output/output.avi)
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/syedabdulsamadahmedali/Computer-Vision.git
-cd Computer-Vision
