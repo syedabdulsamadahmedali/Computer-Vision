@@ -24,6 +24,7 @@ This project implements a complete computer vision pipeline for autonomous vehic
 ---
 
 ## 🗂️ Project Structure
+```
 /
 ├── Final.ipynb              # End-to-end training and inference notebook
 ├── carla_demo.py            # Script for CARLA simulation and deployment
@@ -32,3 +33,25 @@ This project implements a complete computer vision pipeline for autonomous vehic
 │   └── detect/              # YOLOv8 training outputs (weights, logs, results)
 └── README.md                # Project overview (this file)
 
+```
+
+
+---
+
+## 📊 Results Summary
+
+- **mAP@50**: 0.90
+- **F1 Score**: 0.978 (Micro), 0.969 (Macro)
+- **Top Class Performance**: Car (F1 = 0.9964)
+- **Simulated Video**: 600 ticks @ 20 FPS rendered via CARLA RGB camera
+
+> 📽️ _Demo video available in presentation slides (not uploaded here due to size)._
+
+---
+
+## 🚀 How to Run
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/syedabdulsamadahmedali/Computer-Vision.git
+cd Computer-Vision
