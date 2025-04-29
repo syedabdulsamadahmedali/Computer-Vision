@@ -49,5 +49,5 @@ This project implements a complete computer vision pipeline for autonomous vehic
 
 Watch a short CARLA simulation showcasing the trained YOLOv8 model detecting vehicles and pedestrians in real-time.
 
-🎥 [Watch the Simulation Video](output/output.avi)
+🎥 [Watch the Simulation Video](output/demo.avi)
 
